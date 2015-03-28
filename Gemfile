@@ -13,6 +13,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'react-rails', github: 'reactjs/react-rails', branch: 'master'
 gem 'showdown-rails'
+gem 'bootstrap-sass'
+gem 'autoprefixer-rails'
 
 group :development, :test do
   gem 'byebug'
